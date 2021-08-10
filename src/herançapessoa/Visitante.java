@@ -1,0 +1,5 @@
+package herançapessoa;
+// HERANÇA POBRE OU DE IMPLEMENTAÇÃO. NÃO HÁ NADA MAIS IMPLEMENTADO NA CLASSE ALÉM
+// DAS CARACTERÍSTICAS E COMPORTAMENTOS HERDADOS
+public class Visitante extends Pessoa {
+}
